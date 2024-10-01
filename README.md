@@ -38,6 +38,7 @@ Le projet est divisé en deux dossiers principaux :
 Dans le dossier `frontend`, exécutez la commande suivante pour démarrer l'application React :
 ```bash
 npm start
+```
 
 ### Backend
 Dans le dossier `backend`, lancez le serveur JSON en exécutant la commande suivante :
