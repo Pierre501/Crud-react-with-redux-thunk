@@ -1,0 +1,60 @@
+{
+  "students": [
+    {
+      "firstName": "RAKOTOSON",
+      "lastName": "Julio",
+      "dateOfBirth": "2000-06-09",
+      "placeOfBirth": "Toamasina",
+      "registrationNumber": "MAT-000010000000000000",
+      "promotion": "Promotion 1",
+      "id": 1
+    },
+    {
+      "firstName": "NOMENJANAHARY",
+      "lastName": "Stephanie",
+      "dateOfBirth": "2001-12-23",
+      "placeOfBirth": "Antananarivo",
+      "registrationNumber": "MAT-00002",
+      "promotion": "Promotion 3",
+      "id": 2
+    },
+    {
+      "firstName": "RAKOTOMAHAFALY",
+      "lastName": "Henitso",
+      "dateOfBirth": "2024-09-01",
+      "placeOfBirth": "Antananarivo",
+      "registrationNumber": "MAT-0003",
+      "promotion": "Promotion 2",
+      "id": 4
+    },
+    {
+      "firstName": "Gabriel",
+      "lastName": "Frederick",
+      "dateOfBirth": "1974-12-24",
+      "placeOfBirth": "Aliqua Praesentium ",
+      "registrationNumber": "729",
+      "promotion": "Promotion 3",
+      "id": 5
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "firstName": "RAZAFINJOELINA",
+      "lastName": "Tahina",
+      "skill": "Programmation procédural et orienté objet"
+    },
+    {
+      "id": 2,
+      "firstName": "RABENANAHARY",
+      "lastName": "Rojo",
+      "skill": "Développement web"
+    },
+    {
+      "id": 3,
+      "firstName": "VAHATRINIAINA",
+      "lastName": "Naina",
+      "skill": "Programmation système"
+    }
+  ]
+}
