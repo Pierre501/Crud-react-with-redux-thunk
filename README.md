@@ -45,3 +45,22 @@ Dans le dossier `backend`, lancez le serveur JSON en exécutant la commande suiv
 json-server --watch db.json --port 5000
 
 L'API sera accessible à l'adresse suivante : `http://localhost:5000/students`.
+
+## Fonctionnalités
+- **Ajouter un étudiant** : Ajouter un nouveau étudiant à la base de données.
+- **Afficher les étudiants** : Liste tous les étudiants.
+- **Modifier un étudiant** : Modifier les informations d'un étudiant existant.
+- **Supprimer un étudiant** : Supprimer un étudiant de la base de données.
+
+## Technologies utilisées
+- **React** : Pour construire l'interface utilisateur.
+- **Redux** : Pour la gestion de l'état global de l'application.
+- **Redux-thunk** : Pour la gestion des actions asynchrones.
+- **json-server** : Pour simuler une API REST.
+
+## Remarques
+- Le fichier db.json sert de base de données JSON pour les étudiants.
+- Assurez-vous que le serveur JSON et l'application React sont démarrés simultanément pour que l'application fonctionne correctement.
+
+## Auteurs
+**ANDRIANARIVO Pierre Emmanuel**
